@@ -1,95 +1,56 @@
-# Nilton Junior
+<h3 align="left">Hi 👋! My name's Nilton Junior and i'm from Brazil. <br><br>I have a degree in Graphic Design from SENAC since 2014 and am currently transitioning my career into programming to apply my design skills to web development.<br><br>I bring a strong background in soft skills, excellent communication, and interpersonal relationships, developed over more than 19 years of work experience in various fields, which also helped me master the English language.<br><br>Currently, I am enhancing my skills through the Rocketseat platform, taking the Full Stack JavaScript Developer course, which covers technologies such as NodeJS, React, Docker, and databases.</h3>
 
-**`Desenvolvedor FullStack`**
+###
 
-Me chamo Nilton, tenho 39 anos, sou natural de São Paulo, casado e pai de uma linda menina.
-Sou formado em Design Gráfico pelo SENAC desde 2014 e, atualmente, estou em transição de carreira para o mundo da programação.
-Estou me capacitando através da plataforma Rocketseat, realizando o curso de Desenvolvedor Full Stack.
-Carrego uma ampla bagagem de soft skills, desenvolvida ao longo de mais de 19 anos de experiência no mercado de trabalho, e agora busco integrar minha experiência com as novas tecnologias para contribuir em projetos inovadores.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niltonjrdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niltonjrdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/nilton-junior-5915a2238/">
-        <img 
-            alt="" 
-            title="Acesse meu Linkedin" 
-            src=""
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="" 
-            title="Acesse meu Instagram" 
-            src=""
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/niltonjrdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/niltonjrdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+###
 
----
+<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTF0eDYwN2JmdGw1MWdvM2FmZjd6Nm01ZHFkZDgxNmF5MnhtYWNvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"  />
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+</div>
 
+###
 
-<br/>
-<br/>
+<div align="left">
+  <a href="www.linkedin.com/in/nilton-junior-5915a2238" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="dev40.nilton@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/njunior.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=niltonjrdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<br clear="both">
 
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/niltonjrdev/niltonjrdev/output/snake.svg" alt="Snake animation" />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonjrdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+###
