@@ -1,11 +1,11 @@
-## us English Version
+## US English Version
 
 <h4 align="left">Hi 👋! I'm Nilton Junior and welcome to my Github!<br><br>I have a degree in Graphic Design from SENAC since 2014 and am currently transitioning my career into programming to apply my design skills to web development.<br><br>I bring a strong background in soft skills, excellent communication, and interpersonal relationships, developed over more than 19 years of work experience in various fields, which also helped me master the English language.<br><br>Currently, I am enhancing my skills through the Rocketseat platform, taking the Full Stack JavaScript Developer course, which covers technologies such as NodeJS, React, Docker, and databases.<br><br>🚀 Let's connect and build amazing projects together!</h4>
 
 ###
 -------------------------------------------------------------------------------------------------------
 
-## br Portuguese Version 
+## BR Portuguese Version 
 
 <h4 align="left">Olá 👋! Sou o Nilton Junior e seja muito bem vindo ao meu Github!<br><br>Sou formado em Design Gráfico pelo SENAC desde 2014 e, atualmente, estou em transição de carreira para o mundo da programação, para aplicar minhas habilidades de designer no desenvolvimento web. <br><br>Carrego uma ampla bagagem de soft skills, excelente comunicação e relação interpessoal desenvolvidos ao longo de mais de 19 anos de experiência no mercado de trabalho em diversas áreas, que também me ajudaram a dominar o idioma inglês.<br><br>Atualmente estou me capacitando através da plataforma Rocketseat, realizando o curso de Desenvolvedor Full Stack Javascript que abrange tecnologias como NodeJS, React, Docker e banco de dados.<br><br>🚀Vamos nos conectar e constuir incríveis projetos juntos!</h4>
 
